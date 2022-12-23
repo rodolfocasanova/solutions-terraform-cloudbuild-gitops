@@ -11,7 +11,13 @@
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 # See the License for the specific language governing permissions and
 # limitations under the License.
-
+#admin-352301
+#gcloud config set project admin-352301
+#git config --global user.email "rodolfocasanova.dev@gmail.com"
+#git config --global user.name "Rodolfo Casanova"
+#cd ~
+#git clone https://github.com/rodolfocasanova/solutions-terraform-cloudbuild-gitops.git
+#cd ~/solutions-terraform-cloudbuild-gitops
 
 steps:
 - id: 'branch name'
